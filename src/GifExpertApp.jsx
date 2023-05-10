@@ -15,6 +15,7 @@ export const GifExpertApp = () => {
     return (
         <>
 
+            <h2 className="center" >Guillermo Ricardo Garcia</h2>   
             <h1>GifExpertApp</h1>
 
     
