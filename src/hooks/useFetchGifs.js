@@ -25,3 +25,15 @@ export const useFetchGifs = ( category ) => {
     }
 
 }
+
+ const useDataBase = (category2) => {
+
+    const [load, setLoad] = useState([]);
+    const [isCharge, setIsCharge] = useState(false);
+
+    const getLoad = async () => {
+  
+    
+
+    }
+ }
